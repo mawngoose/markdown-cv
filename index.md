@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: blh blhadas sadas
 ---
-# Isaac Newton
+# O E
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
@@ -11,9 +11,9 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## Profile
 
-Standing on the shoulders of giants
+Blah blah blah
 
 ### Specialized in
 
