@@ -11,9 +11,9 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## Woof
 
-Standing on the shoulders of giants
+Blah blah blah
 
 ### Specialized in
 
